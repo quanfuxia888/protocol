@@ -1,0 +1,20 @@
+{
+  "name": "protocol",
+  "version": "1.0.0",
+  "description": "协议验证基础抽象类",
+  "authors": [
+    {
+      "name": "Ray Zhou",
+      "email": "ray@quanfuxia.com"
+    }
+  ],
+  "dependencies": {
+    
+  },
+  "keywords": [
+    "protocol"
+  ],
+  "autoload": {
+    "psr-4": {"protocol\\": ""}
+  }
+}
