@@ -1,5 +1,5 @@
 {
-  "name": "quanfuxia/protocol",
+  "name": "quanfuxia888/protocol",
   "version": "1.0.0",
   "description": "协议验证基础抽象类",
   "authors": [
@@ -9,9 +9,6 @@
     }
   ],
   "type": "library",
-  "dependencies": {
-    
-  },
   "keywords": [
     "protocol"
   ],
