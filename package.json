@@ -16,6 +16,6 @@
     "protocol"
   ],
   "autoload": {
-    "psr-4": {"protocol\\": ""}
+    "psr-4": {"src\\": ""}
   }
 }
